@@ -15,6 +15,6 @@
 #### Given that the Random Forest model was slightly more accurate in predicting customer churn, I would say that users could implement this model in their analysis. They could also use the seaborn python visualization library and the feature importance function to determine which features in their respective data set have the biggest impact on customer churn
 
 ## Repository Navigation:
-#### An explanation of the repository organization
-#### Links to the final notebook and presentation
-#### Reproduction instructions (or a link to them)
+#### An explanation of the repository organization: An explanation of the repository organization: The repository includes the data files (test.csv and train.csv) in the ProjectData folder, the. gitignore, capstone proposal, README.md, my project jupyter notebook, and the PDF to my project presentation. 
+#### Links to the final notebook and presentation: Final notebook link: https://github.com/SidhyaRaman0205/ai_capstone2/blob/master/index.ipynb
+#### Reproduction instructions (or a link to them): The data for this project can be found in the 'ProjectData' folder. The files in there are test and train.csv files. The libraries that were imported are numpy, pandas, matplotlib.pyplot, seaborn, sklearn.model_selection, sklearn.preprocessing, sklearn.metrics, and sklearn.tree. Given that decision trees and random forest models are built randomly, making sure that a random state is included for the test train split and building of the decision tree and random forest models. 
